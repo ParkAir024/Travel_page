@@ -1,0 +1,10 @@
+.app {
+  position: relative; 
+  z-index: 1; 
+  background-image: url('main.jpg');
+  background-size: cover;
+  color: black;
+  min-height: 100vh;
+  padding: 0;
+}
+
